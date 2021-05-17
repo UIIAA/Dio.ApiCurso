@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Dio.ApiCurso</name>
+    </assembly>
+    <members>
+        <member name="M:Dio.ApiCurso.Controllers.V1.JogosController.Obter(System.Int32,System.Int32)">
+            <summary>
+            teste
+            </summary>
+            <param name="pagina"></param>
+            <param name="quantidade"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Dio.ApiCurso.Controllers.V1.JogosController.Obter(System.Guid)">
+            <summary>
+            
+            </summary>
+            <param name="idJogo"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Dio.ApiCurso.Controllers.V1.JogosController.InserirJogo(Dio.ApiCurso.InputModel.JogoInputModel)">
+            <summary>
+            
+            </summary>
+            <param name="jogoInputModel"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Dio.ApiCurso.Entities.Jogo">
+            <summary>
+            This Class Provide guide set to the controler like an Entitie
+            </summary>
+        </member>
+        <member name="T:Dio.ApiCurso.Exceptions.JogoJaCadastradoException">
+            <summary>
+            Exception class game already registered
+            </summary>
+        </member>
+        <member name="T:Dio.ApiCurso.Exceptions.JogoNaoCadastradoException">
+            <summary>
+            Exception class " Game not registered "
+            </summary>
+        </member>
+    </members>
+</doc>
