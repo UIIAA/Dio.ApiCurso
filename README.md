@@ -5,6 +5,8 @@ i was using it in 3.1 and new midleWare HttpJson Responses, do not work On It.
 
 I have to Setup swagger Manually ( thats a lot of Work for Newbies HAHAHA ).
 
+Used Sql server 
+
 Thats my First Api eveeerrrr, and im Very HAPPY AND Thankfull To 
 DIO (Digital Inovation One) Platform. 
 
